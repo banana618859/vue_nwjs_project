@@ -1,7 +1,14 @@
+<!--
+ * @Descripttion: 
+ * @Author: yizheng.yuan
+ * @Date: 2020-12-03 21:47:15
+ * @LastEditors: yizheng.yuan
+ * @LastEditTime: 2020-12-04 13:57:48
+-->
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="home" style="height: 100%;">
+    
+    <HelloWorld msg="excel编辑"/>
   </div>
 </template>
 

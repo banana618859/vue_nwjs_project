@@ -1,3 +1,10 @@
+/*
+ * @Descripttion: 
+ * @Author: yizheng.yuan
+ * @Date: 2020-12-03 21:47:15
+ * @LastEditors: yizheng.yuan
+ * @LastEditTime: 2020-12-03 21:49:47
+ */
 module.exports = {
   root: true,
   env: {
@@ -5,7 +12,7 @@ module.exports = {
   },
   extends: [
     'plugin:vue/essential',
-    '@vue/airbnb',
+    // '@vue/airbnb',
   ],
   parserOptions: {
     parser: 'babel-eslint',
